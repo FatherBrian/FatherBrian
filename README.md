@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @FatherBrian
 - 👀 I’m interested in Machine Learning, Data Engineering, and Management of enterprise services/products
-- 🌱 I’m currently learning Svelte
-- 📫 How to reach me: brfother@gmail.com
+- 
