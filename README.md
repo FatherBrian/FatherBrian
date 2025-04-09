@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FatherBrian
 - 👀 I’m interested in Machine Learning, Data Engineering, and Management of enterprise services/products
-- Badger-core is my open-source data contract validation tool
-- Bagder-enterprise is my enterprise data observability/compliance solution
-  - Think badger-core with UI, integrations into common tech, and end-to-end observability features for data pipelines
+- docdiver is my Grok enabled RAG system
+- gecko is my AI driven data contract tool for data piplines
